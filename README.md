@@ -18,9 +18,6 @@ This project is a laptop price predictor, designed to estimate the price of a la
 3. Input the specifications of the laptop for which you want to predict the price.
 4. Obtain the predicted price output.
 
-## Dataset
-The dataset used for training the model is available at [link to dataset]. It contains information about various laptops including features like processor type, RAM, storage, screen size, etc., along with their corresponding prices.
-
 ## Model Training
 The model was trained using [Linear mpodels,KNN] on the provided dataset. It was evaluated using [insert evaluation metric(s)] to ensure its accuracy and performance.
 
